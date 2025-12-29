@@ -1,5 +1,9 @@
-## Hi there 👋
+## ✨ Hi there 👋 I'm Nikola, an inspiring programmer, white-hat hacker, wannabe software engineer ✨
 
+-  🔭 I’m currently working on: Personal website, QNotes+ (Specialized notetaking tool)
+-  📫 Email: nikolamarko.trajanovski@yahoo.com
+-  ⚡ Favorite Distro: Ubuntu
+-  Languages: C, C++, Bash, SQL, JavaScript
 <!--
 **Nikola1300/Nikola1300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
