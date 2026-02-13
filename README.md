@@ -1,6 +1,6 @@
 ## ✨ Hi there 👋 I'm Nikola, an inspiring programmer, white-hat hacker, wannabe software engineer ✨
 
--  🔭 I’m currently working on: Personal website, QNotes+ (Specialized notetaking tool)
+-  🔭 I’m currently working on: something
 -  📫 Email: nikolamarko.trajanovski@yahoo.com
 -  ⚡ Favorite Distro: Ubuntu
 -  Languages: C, C++, Bash, SQL, JavaScript
